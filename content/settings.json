@@ -1,7 +1,7 @@
 {
   "domain": "www.bluekids.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#023c92",
+  "primary_color": "#000000",
   "theme": {
     "bootswatch": "_",
     "custom": "niche-baby"
@@ -15,7 +15,7 @@
   "mini_logo": "/img/uploads/favicon.png",
   "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "secondary_color": "#000000",
+  "secondary_color": "#155ca8",
   "icon": "/img/uploads/logo.png",
   "store_id": 1058,
   "description": "BLUE KIDS qualidade em roupas infantis para meninos.",
