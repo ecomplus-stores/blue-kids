@@ -6,7 +6,7 @@
     "bootswatch": "_",
     "custom": "niche-baby"
   },
-  "bg_color": "#008799",
+  "bg_color": "#000000",
   "logo": "/img/uploads/logo.png",
   "name": "Camisaria Blue Kids",
   "short_name": "bluekids",
@@ -15,7 +15,7 @@
   "mini_logo": "/img/uploads/favicon.png",
   "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "secondary_color": "#155ca8",
+  "secondary_color": "#0c3be4",
   "icon": "/img/uploads/logo.png",
   "store_id": 1058,
   "description": "BLUE KIDS qualidade em roupas infantis para meninos.",
