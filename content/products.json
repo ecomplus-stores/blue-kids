@@ -15,6 +15,11 @@
       "enabled": true
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/images.png",
+      "mobile_img": "/img/uploads/images.png"
+    },
+    {
       "type": "related-products",
       "title": "Produtos relacionados"
     },
