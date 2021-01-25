@@ -2,7 +2,9 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/banner-tarja-mobile-tam3-r1.png"
+      "img": "/img/uploads/banner-tarja-mobile-tam3-r1.png",
+      "alt": "Pagamento parcelado",
+      "mobile_img": "/img/uploads/banner-tarja-mobile-tam3-r1.png"
     },
     {
       "type": "breadcrumbs",
