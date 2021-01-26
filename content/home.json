@@ -3,6 +3,10 @@
   "meta_description": "Roupas e Acessórios para Bebês e Crianças | Blue Kids Camisaria Infantil",
   "sections": [
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/1554118199_banner_regua3.png"
     },
