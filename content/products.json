@@ -1,10 +1,24 @@
 {
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner-tarja-mobile-tam3-r1.png",
-      "alt": "Pagamento parcelado",
-      "mobile_img": "/img/uploads/banner-tarja-mobile-tam3-r1.png"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-tarja-mobile-tam3-r1.png",
+          "mobile_img": "/img/uploads/banner-tarja-mobile-tam3-r1.png",
+          "alt": "Parcelamento no cartão de crédito"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/cp.jpg",
+          "alt": "loja de roupa infantil compra segura",
+          "mobile_img": "/img/uploads/cp_easy-resize.com.jpg"
+        }
+      ]
     },
     {
       "type": "breadcrumbs",
@@ -34,6 +48,12 @@
     {
       "type": "recommended-products",
       "title": "Quem comprou este produto, também comprou:"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-tarja-mobile-tam3-r1.png",
+      "alt": "Pagamento parcelado",
+      "mobile_img": "/img/uploads/banner-tarja-mobile-tam3-r1.png"
     }
   ]
 }
