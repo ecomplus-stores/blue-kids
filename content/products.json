@@ -5,26 +5,6 @@
       "enabled": true
     },
     {
-      "type": "banner-slider",
-      "autoplay": 4000,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-tarja-mobile-tam3-r1.png",
-          "mobile_img": "/img/uploads/banner-tarja-mobile-tam3-r1.png",
-          "alt": "Parcelamento no cartão de crédito"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner_tarja_mobile-darosa-1.png",
-          "mobile_img": "/img/uploads/banner_tarja_mobile-darosa-1.png",
-          "alt": "Loja online roupa infantil"
-        }
-      ]
-    },
-    {
       "type": "breadcrumbs",
       "enabled": true
     },
