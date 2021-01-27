@@ -9,14 +9,6 @@
       "enabled": true
     },
     {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2021-01-27T04:16:48.558Z",
-      "end": "2021-07-01T03:16:48.599Z",
-      "notes": "Desconto de 5% com o cupom\nbemvindobluekids",
-      "offers": []
-    },
-    {
       "type": "product-block",
       "enabled": true
     },
