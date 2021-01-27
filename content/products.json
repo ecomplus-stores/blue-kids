@@ -13,11 +13,6 @@
       "enabled": true
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/cupom-de-desconto-bluekids.jpg",
-      "mobile_img": "/img/uploads/cupom-de-desconto-bluekids.jpg"
-    },
-    {
       "type": "related-products",
       "title": "Produtos relacionados"
     },
