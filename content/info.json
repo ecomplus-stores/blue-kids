@@ -1,18 +1,19 @@
 {
   "shipping": {
     "text": "Entregamos para todo o Brasil",
-    "show": true
+    "show": false
   },
   "installments": {
     "text": "Parcele até 6 vezes ",
-    "show": true
+    "show": false
   },
   "exchange": {
     "text": "Não gostou? A primeira troca é gratuita",
     "show": true
   },
   "promo": {
-    "text": "Diferentes promoções ao longo do ano!",
-    "show": true
+    "text": "Desconto 5% Off",
+    "show": true,
+    "link": "https://www.bluekids.com.br/pages/cupom-de-desconto-blue-kids"
   }
 }
