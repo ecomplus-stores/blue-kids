@@ -1,11 +1,11 @@
 {
   "shipping": {
-    "text": "Entregamos para todo o Brasil",
+    "text": "Entrega garantida para todo o Brasil",
     "show": false
   },
   "installments": {
-    "text": "Parcele até 6 vezes ",
-    "show": false
+    "text": "Parcele até 3 vezes sem juros",
+    "show": true
   },
   "exchange": {
     "text": "Não gostou? A primeira troca é gratuita",
