@@ -30,31 +30,6 @@
       "collection_id": "5e286a5362887026009bf0fb",
       "sort": "sales",
       "headless": true
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/03-1-compressed.jpg",
-      "link": "https://bluekids.com.br/conjunto-com-bermuda",
-      "alt": "banner coleção roupa infantil tematica fundo do mar",
-      "mobile_img": ""
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/05-compressed.jpg",
-      "link": "https://bluekids.com.br/colecao-baloes-e-aventura",
-      "alt": "coleção roupa festa infantil balonismo"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/04-compressed.jpg",
-      "link": "https://bluekids.com.br/colecao-circo-magico",
-      "alt": "coleção roupa infantil festa dinossauros e balões"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/06-compressed.jpg",
-      "link": "https://bluekids.com.br/colecao-ursinhos",
-      "alt": "coleção conjunto roupa social infantil ursinhos"
     }
   ]
 }
