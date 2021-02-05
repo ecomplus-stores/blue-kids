@@ -7,10 +7,6 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Blog Blue Kids",
-        "link": "/blog"
-      },
-      {
         "title": "Sobre nós",
         "link": "/pages/sobre-nos"
       }
