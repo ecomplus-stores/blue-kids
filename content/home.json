@@ -30,6 +30,13 @@
       "collection_id": "5e286a5362887026009bf0fb",
       "sort": "sales",
       "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "views"
     }
   ]
 }
