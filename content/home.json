@@ -29,7 +29,7 @@
       "shuffle": true,
       "collection_id": "5e286a5362887026009bf0fb",
       "sort": "sales",
-      "headless": true
+      "headless": false
     },
     {
       "type": "collection-shelf",
