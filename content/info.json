@@ -5,15 +5,15 @@
   },
   "installments": {
     "text": "Parcele até 3 vezes sem juros",
-    "show": true
+    "show": false
   },
   "exchange": {
     "text": "Não gostou? A primeira troca é gratuita",
-    "show": true
+    "show": false
   },
   "promo": {
     "text": "Pegue Seu Cupom 5% Off",
-    "show": true,
+    "show": false,
     "link": "https://www.bluekids.com.br/pages/cupom-de-desconto-blue-kids"
   }
 }
