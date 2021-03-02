@@ -247,3 +247,7 @@
   for = "/assets/*"
   [headers.values]
     Cache-Control = "public, max-age=86400, s-maxage=600"
+[[ redireciona ]]
+  from = "/roupa-festa-infantil-camisa-curta-fundo-do-mar-com-gravata-e-suspensorio"
+  to = "/conjunto-infantil-camisa-fundo-do-mar-4328"
+  status = 301
