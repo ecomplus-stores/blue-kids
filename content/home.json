@@ -5,7 +5,9 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/copia-de-a-festa-vai-comecar-1-.jpg",
-      "mobile_img": "/img/uploads/copia-de-copia-de-a-festa-vai-comecar-.jpg"
+      "mobile_img": "/img/uploads/banner-a-festa-blue-kids-vai-comecar.webp",
+      "alt": "banner a festa vai começar Blue Kids | roupa social infantil para meninos",
+      "link": "https://www.bluekids.com.br/search?term=anivers%C3%A1rio"
     },
     {
       "type": "info-bar",
