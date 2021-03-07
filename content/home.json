@@ -3,15 +3,15 @@
   "meta_description": "site de roupa infantil para você comprar roupa infantil para criança roupa social com suspensorio e gravata borboleta",
   "sections": [
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/copia-de-a-festa-vai-comecar-1-.jpg",
       "mobile_img": "/img/uploads/banner-a-festa-blue-kids-vai-comecar.webp",
       "alt": "banner a festa vai começar Blue Kids | roupa social infantil para meninos",
       "link": "https://www.bluekids.com.br/search?term=anivers%C3%A1rio"
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     },
     {
       "type": "collection-shelf",
