@@ -21,6 +21,11 @@
       ]
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/copia-de-a-festa-vai-comecar-1-.jpg",
+      "mobile_img": "/img/uploads/copia-de-copia-de-a-festa-vai-comecar-.jpg"
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
