@@ -3,24 +3,6 @@
   "meta_description": "site de roupa infantil para você comprar roupa infantil para criança roupa social com suspensorio e gravata borboleta",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 6000,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/03-1-compressed.jpg",
-          "mobile_img": "/img/uploads/minibanner2-topo-bluekids.webp"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/02-2-compressed.jpg",
-          "mobile_img": "/img/uploads/002-1-compressed.webp"
-        }
-      ]
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/copia-de-a-festa-vai-comecar-1-.jpg",
       "mobile_img": "/img/uploads/copia-de-copia-de-a-festa-vai-comecar-.jpg"
