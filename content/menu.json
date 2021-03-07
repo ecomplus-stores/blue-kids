@@ -1,13 +1,13 @@
 {
   "sort_categories": [
-    "bermuda-social",
-    "body",
     "camisa-social",
+    "body",
     "conjunto-camisa-polo",
     "conjuntos",
     "conjunto-com-calca",
     "bermuda-social",
-    "smash-the-cake"
+    "smash-the-cake",
+    "bermuda-social"
   ],
   "phone_wpp": true,
   "socials": true
