@@ -52,10 +52,14 @@ font-family: 'Arial', sans-serif;
   #product-block .product__buy > button.btn-lg {
     width: 100%
   }
+  
+  .prices__value {
+    font-size: 70%
+  }
   div#description {
     font-size: 60%;
   }
-  div.h1#description {
+  h1#description {
     font-size: 50%;
   }
   #product__picture {
