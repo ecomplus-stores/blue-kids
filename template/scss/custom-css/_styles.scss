@@ -48,14 +48,12 @@ font-family: 'Arial', sans-serif;
 }
 // apenas mobile
 @media screen and (max-width: 480px) {
-  html {
-font-size: 95%;
-}
+ 
   #product-block .product__buy > button.btn-lg {
     width: 100%
   }
   div#description {
-    font-size: 70%;
+    font-size: 60%;
   }
 }
 #product-block .product__buy {
