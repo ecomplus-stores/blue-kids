@@ -1,7 +1,7 @@
 {
   "domain": "www.bluekids.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#000000",
+  "primary_color": "#fafafa",
   "theme": {
     "bootswatch": "_",
     "custom": "niche-baby"
