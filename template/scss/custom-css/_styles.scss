@@ -20,11 +20,11 @@ font-family: 'Arial', sans-serif;
   border-radius: .3rem;
 }
 .header__search-btn svg {
-  color: #67adeb
+  color: #0303a6
 }
 // variations border css
 .variations__option {
-  border: 2px solid #343a40 !important;
+  border: 2px solid #0303a6 !important;
 }
 .variations__option--selected:not(:disabled) {
   border-color: var(--secondary) !important;
@@ -128,15 +128,4 @@ div.timer__notes {
 
 .prices__installments {
   color: rgb(255, 165, 0);
-}
-
-.shipping-line {
-  color: rgb(0, 0, 255);
-}
-.mb-2 {
-  color: rgb(0, 0, 255);
-  font-size: 1rem
-}
-i.fas.fa-arrow-down mr-1 {
-  color: rgb(0, 0, 255);
 }
