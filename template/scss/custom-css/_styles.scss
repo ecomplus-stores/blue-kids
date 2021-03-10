@@ -55,6 +55,9 @@ font-family: 'Arial', sans-serif;
   div#description {
     font-size: 60%;
   }
+  div.h1#description {
+    font-size: 50%;
+  }
   #product__picture {
     width: 70%;
   }
@@ -64,9 +67,7 @@ font-family: 'Arial', sans-serif;
   .footer__credits {
     font-size: 50%;
   }
-  h1, h2, h3, h4, h5 {
-    font-size: 70%;
-  }
+  
   #product-block .product__buy {
   padding-top: 1rem
 }
