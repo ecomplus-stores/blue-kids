@@ -53,13 +53,11 @@ font-family: 'Arial', sans-serif;
     width: 100%;
   }
   
-  .prices__value {
+  div.prices prices--literal prices--big {
     font-size: 70%;
   }
   
-  .prices__installments {
-    font-size: 50%;
-  }
+
   div#description {
     font-size: 60%;
   }
