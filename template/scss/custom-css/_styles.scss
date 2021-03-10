@@ -48,7 +48,9 @@ font-family: 'Arial', sans-serif;
 }
 // apenas mobile
 @media screen and (max-width: 480px) {
-  font-size: 50%;
+  html {
+font-size: 75%;
+}
   #product-block .product__buy > button.btn-lg {
     width: 100%
   }
