@@ -160,6 +160,6 @@ div.timer__notes {
 #main {
   overflow-x: hidden !important;
 }
-i.fas.fa-user {
+i.fas.fa-user::before {
   color: rgb(0, 0, 255);
 }
