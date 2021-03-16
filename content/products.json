@@ -13,8 +13,11 @@
       "enabled": true
     },
     {
-      "type": "related-products",
-      "title": "Produtos relacionados"
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "autoplay": 3000,
+      "sort": null
     },
     {
       "type": "product-description",
