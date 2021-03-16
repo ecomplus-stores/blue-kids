@@ -10,12 +10,13 @@
     },
     {
       "type": "page-title",
-      "title": "Coleção de roupa social infantil masculina tematica para aniversário e batizado",
-      "description": "Coleção de roupa social infantil masculina tematica para aniversário e batizado"
+      "title": "",
+      "description": ""
     },
     {
       "type": "collection-retail",
-      "enabled": true
+      "enabled": true,
+      "sort": "views"
     },
     {
       "type": "document-description",
