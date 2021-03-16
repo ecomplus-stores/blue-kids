@@ -3,10 +3,6 @@
   "meta_description": "Blue Kids site de roupa infantil para você comprar roupa infantil para criança roupa social com suspensorio e gravata borboleta",
   "sections": [
     {
-      "type": "blog",
-      "enabled": true
-    },
-    {
       "type": "info-bar",
       "enabled": true
     },
@@ -37,6 +33,10 @@
       "limit": 12,
       "page": 1,
       "sort": "news"
+    },
+    {
+      "type": "blog",
+      "enabled": true
     }
   ]
 }
