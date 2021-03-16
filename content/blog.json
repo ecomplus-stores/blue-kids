@@ -1,7 +1,7 @@
 {
-  "title": "# Blog Camisaria Blue Kids",
-  "meta_title": "Blog da Camisaria Blue Kids | Loja de Roupa Infantil",
-  "meta_description": "Nosso Blog Acompanhe as dicas que fizemos especialmente para você, conheça nossas coleções e saiba mais as curiosidades sobre cada peça que compõe a nossa coleção de roupa infantil.",
+  "title": "Blog Camisaria Blue Kids",
+  "meta_title": "Blog da Camisaria Blue Kids | Blue Kids",
+  "meta_description": "Blog da Camisaria Blue Kids acompanhe as dicas que fizemos especialmente para você vestir seu filho com as mais lindas roupas para bebe menino",
   "sections": [
     {
       "type": "breadcrumbs",
@@ -20,20 +20,6 @@
       "collection_id": "5e31fd1962887026009eaeea",
       "sort": "news",
       "title": "Fofuras Fashion"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": "5e286b0b62887026009bf130",
-      "sort": "news",
-      "title": "Lançamentos Blue Kids"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": "5e705db57e6552461488d8c5",
-      "sort": "news",
-      "title": "Smash The Cake"
     }
   ]
 }
