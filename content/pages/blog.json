@@ -1,0 +1,12 @@
+{
+  "sections": [
+    {
+      "type": "blog",
+      "enabled": true
+    }
+  ],
+  "title": "Blog",
+  "meta_title": "Blog Blue Kids",
+  "meta_description": "",
+  "body": "Blog Blue Kids"
+}
