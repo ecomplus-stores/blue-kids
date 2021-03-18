@@ -23,10 +23,6 @@
     {
       "type": "product-specifications",
       "enabled": true
-    },
-    {
-      "type": "recommended-products",
-      "title": "Quem comprou este produto, também comprou:"
     }
   ]
 }
