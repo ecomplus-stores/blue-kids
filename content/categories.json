@@ -9,7 +9,8 @@
     },
     {
       "type": "category-retail",
-      "enabled": true
+      "enabled": true,
+      "sort": "views"
     },
     {
       "type": "document-description",
