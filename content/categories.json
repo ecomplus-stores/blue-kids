@@ -8,23 +8,12 @@
       "type": "page-title"
     },
     {
-      "type": "document-banner",
-      "enabled": false
-    },
-    {
       "type": "category-retail",
       "enabled": true
     },
     {
       "type": "document-description",
       "enabled": false
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "autoplay": 3000,
-      "sort": null
     }
   ]
 }
