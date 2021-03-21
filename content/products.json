@@ -30,11 +30,11 @@
     },
     {
       "type": "custom-html",
-      "html": "<div id = \"fb-root\" > </ div> <script assíncrona adiar crossorigin = \"anonymous\" src = \"https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v10.0&appId= 1098744417279255 & autoLogAppEvents = 1 \" nonce = \" hH8K1MwL \" > </script> \n     "
+      "html": "<div id=\"fb-root\"></div>\n<script async defer crossorigin=\"anonymous\" src=\"https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v10.0&appId=1098744417279255&autoLogAppEvents=1\" nonce=\"BZayEwXR\"></script>"
     },
     {
       "type": "custom-html",
-      "html": "<div class=\"fb-comments\" data-href=\"https://developers.facebook.com/docs/plugins/comments#configurator\" data-width=\"\" data-numposts=\"5\"></div>"
+      "html": "<div class=\"fb-comments\" data-href=\"https://www.bluekids.com.br\" data-width=\"\" data-numposts=\"5\"></div>"
     }
   ]
 }
