@@ -9,7 +9,7 @@
   "bg_color": "#ffffff",
   "logo": "https://bluekids.netlify.com/img/uploads/logo.png",
   "name": "Camisaria Blue Kids",
-  "short_name": "bluekids",
+  "short_name": "Blue Kids",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "/img/uploads/favicon.png",
@@ -18,6 +18,6 @@
   "secondary_color": "#026e06",
   "icon": "/img/uploads/logo.png",
   "store_id": 1058,
-  "description": "Qualidade em roupas infantis para meninos.",
+  "description": "loja online de roupa social infantil temática para bebê e crianças",
   "large_icon": "/img/uploads/logobluekidsminimum.jpg"
 }
