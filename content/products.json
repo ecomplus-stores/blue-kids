@@ -1,6 +1,10 @@
 {
   "sections": [
     {
+      "type": "custom-html",
+      "html": "<!-- Start of CartStack API Script -->\n<script data-cfasync=\"false\" async=\"true\" id=\"cartstack\" src=\"https://app.cartstack.com.br/activeAPI/load.js\" type=\"text/javascript\"></script>\n<!-- End of CartStack API Script -->"
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
@@ -23,14 +27,6 @@
     {
       "type": "product-specifications",
       "enabled": true
-    },
-    {
-      "type": "custom-html",
-      "html": "<div id=\"fb-root\"></div>\n<script async defer crossorigin=\"anonymous\" src=\"https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v10.0&appId=1098744417279255&autoLogAppEvents=1\" nonce=\"BZayEwXR\"></script>"
-    },
-    {
-      "type": "custom-html",
-      "html": "<div class=\"fb-comments\" data-href=\"https://www.bluekids.com.br\" data-width=\"\" data-numposts=\"5\"></div>"
     }
   ]
 }
