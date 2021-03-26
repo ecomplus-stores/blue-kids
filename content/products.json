@@ -1,10 +1,6 @@
 {
   "sections": [
     {
-      "type": "custom-html",
-      "html": "<!-- Start of CartStack API Script -->\n<script data-cfasync=\"false\" async=\"true\" id=\"cartstack\" src=\"https://app.cartstack.com.br/activeAPI/load.js\" type=\"text/javascript\"></script>\n<!-- End of CartStack API Script -->"
-    },
-    {
       "type": "breadcrumbs",
       "enabled": true
     },
