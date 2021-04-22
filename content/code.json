@@ -1,5 +1,5 @@
 {
-  "css": "#ws_icon_chat {\n    position: fixed;\n    bottom: 10px;\n    left: 15px;\n    z-index: 2000;\n    cursor: pointer;\n    outline: 0 !important;\n}\n#ws_icon_chat img {\n    width: 80px !important;\n}",
+  "css": "",
   "html_head": "<!-- Start of CartStack API Script -->\n<script data-cfasync=\"false\" async=\"true\" id=\"cartstack\" src=\"https://app.cartstack.com.br/activeAPI/load.js\" type=\"text/javascript\"></script>\n<!-- End of CartStack API Script -->",
   "html_body": ""
 }
