@@ -5,7 +5,7 @@
   },
   "installments": {
     "text": "Parcele até 3 vezes sem juros",
-    "show": false
+    "show": true
   },
   "exchange": {
     "text": "Não gostou? A primeira troca é gratuita",
