@@ -35,6 +35,10 @@
       "page": 1,
       "collection_id": "5e286a5362887026009bf0fb:collections:Mais vendidos:/estampas-digital",
       "sort": "views"
+    },
+    {
+      "type": "custom-html",
+      "html": "<!-- Begin Mailchimp Signup Form -->\n<link href=\"//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css\" rel=\"stylesheet\" type=\"text/css\">\n<style type=\"text/css\">\n\t#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}\n\t/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.\n\t   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */\n</style>\n<div id=\"mc_embed_signup\">\n<form action=\"https://bluekids.us20.list-manage.com/subscribe/post?u=c2ddc89e2aebc0d11c82a9170&amp;id=2845fe19be\" method=\"post\" id=\"mc-embedded-subscribe-form\" name=\"mc-embedded-subscribe-form\" class=\"validate\" target=\"_blank\" novalidate>\n    <div id=\"mc_embed_signup_scroll\">\n\t\n\t<input type=\"email\" value=\"\" name=\"EMAIL\" class=\"email\" id=\"mce-EMAIL\" placeholder=\"Insira seu e-mail\" required>\n    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->\n    <div style=\"position: absolute; left: -5000px;\" aria-hidden=\"true\"><input type=\"text\" name=\"b_c2ddc89e2aebc0d11c82a9170_2845fe19be\" tabindex=\"-1\" value=\"\"></div>\n    <div class=\"clear\"><input type=\"submit\" value=\"Inscrever-se\" name=\"subscribe\" id=\"mc-embedded-subscribe\" class=\"button\"></div>\n    </div>\n</form>\n</div>\n\n<!--End mc_embed_signup-->"
     }
   ]
 }
