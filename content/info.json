@@ -1,7 +1,7 @@
 {
   "shipping": {
-    "text": "Entrega garantida para todo o Brasil",
-    "show": false
+    "text": "Leve 2 produtos e ganhe 10% de Desconto",
+    "show": true
   },
   "installments": {
     "text": "Parcele até 3 vezes sem juros",
