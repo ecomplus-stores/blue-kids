@@ -18,7 +18,8 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "views"
+      "sort": "views",
+      "collection_id": "5e286a5362887026009bf0fb:collections:Mais vendidos:/estampas-digital"
     },
     {
       "type": "responsive-banner",
@@ -40,6 +41,14 @@
       "sort": "news",
       "collection_id": "5e31f8c962887026009eaee0:collections:Coleção Festa Safari:/colecao-safari",
       "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6054cada4b94844608666df0:collections:Coleção Roupa Arca de Noe:/colecao-roupa-arca-noe",
+      "sort": "sales"
     }
   ]
 }
