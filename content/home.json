@@ -57,6 +57,13 @@
       "page": 1,
       "collection_id": "6054cada4b94844608666df0:collections:Coleção Roupa Arca de Noe:/colecao-roupa-arca-noe",
       "sort": "sales"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6054bec34b948446086662d8:collections:Coleção Roupa Batizado:/colecao-roupa-batizado-masculino"
     }
   ]
 }
