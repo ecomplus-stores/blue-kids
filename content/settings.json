@@ -1,7 +1,7 @@
 {
   "domain": "www.bluekids.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#032c6d",
+  "primary_color": "#065fef",
   "theme": {
     "bootswatch": "_",
     "custom": "niche-baby"
@@ -15,7 +15,7 @@
   "mini_logo": "/img/uploads/favicon.png",
   "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "secondary_color": "#026e06",
+  "secondary_color": "#2990d1",
   "icon": "/img/uploads/logo.png",
   "store_id": 1058,
   "description": "loja online de roupa social infantil temática para bebê e crianças",
