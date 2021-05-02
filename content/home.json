@@ -22,6 +22,14 @@
       "collection_id": "5e286a5362887026009bf0fb:collections:Mais vendidos:/estampas-digital"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "5e286b0b62887026009bf130:collections:Nossas Novidades:/nossas-novidades",
+      "sort": "views"
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/herois-de-capa-frente-desktop.jpg",
       "mobile_img": "/img/uploads/herois-de-capa-frente-mobile.jpg"
