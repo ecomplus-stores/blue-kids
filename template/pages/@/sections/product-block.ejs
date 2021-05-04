@@ -66,8 +66,10 @@
 
               <% if (_.state.variations && _.state.variations.length) { %>
                 <div data-slot="variations-info">
-                  <span id="vendas"><strong><%=_.state.sales %></strong> unidade(s) vendidas</span>
-                  <!-- Custom info for products with variations, such as sizes table link -->
+                  <% if (_.state.sales) { %>
+                    <span id="vendas"><strong><%=_.state.sales %></strong> unidade(s) vendida(s)</span>
+                    <!-- Custom info for products with variations, such as sizes table link -->
+                  <% } %>
                 </div>
               <% } %>
 
