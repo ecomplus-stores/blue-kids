@@ -182,6 +182,41 @@ div.timer__notes {
   color: black
 }
 
+.cart .row .col-md-7 .cart__list {
+  order: 1
+}
+
+.cart .row .col-md-7 .cart__back {
+  order: 2
+}
+
+.cart .row .col-md-7 .recommended-items {
+  order: 3
+}
+
+//tamanho botao vitrine comprar
+.product-card--small .product-card__buy, .product-card .spinner-border{  
+    bottom: var(--spacer-2);
+    right: var(--spacer-4);
+}
+
+//menu horizontal
+.header__row .header__nav a {
+    padding-right: 1rem;
+    font-weight: 600;
+    color: #333;
+}
+
+//border arredondada img
+.banner picture img {    
+    border-radius: 5px !important;
+}
+
+// font style
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
 #main {
   overflow-x: hidden !important;
 }
