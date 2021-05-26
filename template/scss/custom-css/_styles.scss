@@ -23,21 +23,6 @@ font-family: 'Arial', sans-serif;
   color: #149600
 }
 
-#header {
-    //background-color:#F8F9FA !important;     
-}
-.header__row .header__nav a {
-    //color: #fff !important;
-}
-// .top-bar, .top-bar__nav {
-//     background:#F8F9FA !important;
-// }
-.header__buttons .btn {
-   //color: #cecece;
-}
-.header__toggler-icon {
-    //color: #cecece;
- }
 // search
 #search-form {
   border: 1px solid #ced4da;
@@ -49,7 +34,7 @@ font-family: 'Arial', sans-serif;
 
 / aumentar botao comprar
 .product__buy button {
-    padding: .5rem 4rem;
+    padding: .5rem 3rem;
   
 // variations border css
 .variations__option {
@@ -240,10 +225,6 @@ header#header.header {
 }
 .products-carousel h3, .products-carousel strong, .products-carousel .product-card__prices, .product-card h3, .product-card .product-card__prices,.product-card .prices__discount{
   text-align: center;
-}
-.products-carousel h3 {
-  color: #705a3d;
-  font-weight: 300;
 }
 .responsive-baner:last-child {
   padding-bottom: 0px !important;
