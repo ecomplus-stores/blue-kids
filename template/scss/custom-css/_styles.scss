@@ -233,3 +233,39 @@ header#header.header {
 #product-actions .product__buy {
   margin-top: 1.5rem;
 }
+.products-carousel h3, .products-carousel strong, .products-carousel .product-card__prices, .product-card h3, .product-card .product-card__prices,.product-card .prices__discount{
+  text-align: center;
+}
+.products-carousel h3 {
+  color: #705a3d;
+  font-weight: 300;
+}
+.responsive-baner:last-child {
+  padding-bottom: 0px !important;
+  margin-bottom: -1em !important;
+}
+// Footer
+.footer__title +ul.list-unstyled > li:first-child span,.footer__title +ul.list-unstyled > li:first-child a {
+  font-size: 20px !important;
+  color: #2C0E7A !important;
+}
+.footer__title + p {
+  color: #0d0d0d !important;
+}
+.footer .col-lg-auto {
+  width: 20%;
+}
+.footer__title +ul.list-unstyled > li:nth-child(2) > a {
+  color: #2C0E7A !important;
+}
+.footer__credits {
+  border-top: 1px solid #000;
+}
+.footer__title {
+  color: #2C0E7A !important;
+}
+.footer__credits {
+  text-align: center;
+}
+.footer__links svg {
+  display: none !important;
