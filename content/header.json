@@ -1,8 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "",
+    "text": "Primeira troca é grátis",
     "link": "https://www.bluekids.com.br/pages/trocas",
-    "background": "#3962f3"
+    "background": "#ffffff",
+    "color": "#010ec6"
   },
   "contacts_stripe": {
     "pages": [
