@@ -67,8 +67,7 @@
               <% if (_.state.variations && _.state.variations.length) { %>
                 <div data-slot="variations-info">
                     <!-- Custom info for products with variations, such as sizes table link -->
-                  
-                </div>
+                 </div>
               <% } %>
 
               <div class="spinner-border m-4" role="status">
@@ -96,12 +95,13 @@
               </div>
             </div>
           </div>
+            <br>
             <% if (_.state.sales) { %>
-            <span id="vendas"><strong><%=_.state.sales %></strong> unidade(s) vendida(s)</span>
+                <span id="vendas"><strong><%=_.state.sales %></strong> unidade(s) vendida(s)</span>
             <% } %>
-           <p>Compre e encante-se com essa <strong>Roupa Infantil</strong> de tirar o folego! Renove o guarda-roupa do seu filho com as melhores <em>roupas para meninos</em>. Produzido por <b>Camisaria Blue Kids</b>. <em>Looks incríveis</em> e super descolados para seu Princípe arrasar em qualquer ocasião!!</p>
-          <% if (_.state.short_description) { %>
-            <p class="product__info mt-3 lead">
+              <p>Compre e encante-se com essa <strong>Roupa Infantil</strong> de tirar o folego! Renove o guarda-roupa do seu filho com as melhores <em>roupas para meninos</em>. Produzido por <b>Camisaria Blue Kids</b>. <em>Looks incríveis</em> e super descolados para seu Princípe arrasar em qualquer ocasião!!</p>
+              <% if (_.state.short_description) { %>
+                <p class="product__info mt-3 lead">
               <%= _.state.short_description %>
             </p>
           <% } %>
