@@ -259,3 +259,8 @@ header#header.header {
     width: 100%;
   }
 }
+@media (min-width: 767px) {
+#product-description .html-clearfix img {
+width: 50%
+}
+}
