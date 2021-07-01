@@ -10,7 +10,7 @@
     {
       "type": "category-retail",
       "enabled": true,
-      "sort": "views"
+      "sort": "sales"
     },
     {
       "type": "document-description",
