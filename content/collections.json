@@ -16,7 +16,7 @@
     {
       "type": "collection-retail",
       "enabled": true,
-      "sort": "views"
+      "sort": "sales"
     },
     {
       "type": "document-description",
