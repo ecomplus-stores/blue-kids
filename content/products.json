@@ -17,9 +17,9 @@
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "sort": "sales",
+      "sort": "highest_price",
       "title": "Roupas Infantis Mais Amadas",
-      "collection_id": "5e286a5362887026009bf0fb:collections:Mais vendidos:/estampas-digital"
+      "collection_id": null
     },
     {
       "type": "collection-shelf",
