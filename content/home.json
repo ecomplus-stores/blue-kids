@@ -14,6 +14,11 @@
       "link": "https://www.bluekids.com.br/search?term=anivers%C3%A1rio"
     },
     {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "views"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
