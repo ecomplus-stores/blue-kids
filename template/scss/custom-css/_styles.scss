@@ -3,12 +3,29 @@
 body {
   font-family: "Arial", sans-serif;
 // centralizando
-.products-carousel h3,
-.products-carousel,
-.product-card__prices,
-.product-card h3,
-.product-card .product-card__prices,
+header__row {
+  width: 100%;
+  background-color: whitesmoke  !important
+}
 
-  .product-card .prices__discount {
-  text-align: center;
+.product__name {
+  font-size: 1.5rem;
+
+}
+
+strong.prices__value{
+
+  font-size: 1.5rem  !important
+} 
+span.variations__grid-title h5 {
+  font-size: 1rem  !important
+}
+span.variations__value {
+
+display: none !important
+}
+
+.gallery {
+  display: flexbox !important
+   
 }
