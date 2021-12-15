@@ -2,8 +2,9 @@
 // font
 body {
   font-family: "Arial", sans-serif;
+}
 // centralizando
-header__row {
+.header__row {
   width: 100%;
   background-color: whitesmoke  !important
 }
@@ -26,6 +27,6 @@ display: none !important
 }
 
 .gallery {
-  display: flexbox !important
+  display: flex !important
    
 }
