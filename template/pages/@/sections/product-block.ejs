@@ -37,18 +37,19 @@
                     <source
                       srcset="<%= _.ecomUtils.img(_.state).url %>"
                       type="image/webp"
-                      media="(max-width: 399.98px)"
+                      media="(max-width: 299.98px)"
                     >
                     <source
                       srcset="<%= imgObj.url %>"
                       type="image/webp"
-                      media="(min-width: 400px)"
+                      media="(min-width: 300px)"
                     >
                     <img
                       src="<%= imgObj.url.replace(/\.webp$/, '') %>"
                       alt="<%= imgObj.alt || _.state.name %>"
                       <% if (imgObj.url.startsWith('https://ecoms1.com/')) { %>
                         crossorigin="anonymous"
+                        auto
                       <% } %>
                       <% if (height) { %>
                         width="<%= width %>"
@@ -56,6 +57,7 @@
                       <% } %>
                     >
                   </picture>
+                  
                 </div>
               </div>
             <% } %>
@@ -111,11 +113,104 @@
                 </button>
               </div>
             </div>
-          </div>
+          </div>   
+
+        <a href="javascript:;" data-toggle="modal" data-target="#modal-size-guide" style="font-size:1.2rem; color: blue;">
+           <strong> >>> TABELA DE MEDIDAS: </strong>
+          </a>
+          <div class="modal modal-center fade" id="modal-size-guide" tabindex="-1" style="display: none;" aria-hidden="true">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <button id="close-mobile" type="button" class="close" data-dismiss="modal" style="display: none; padding: 7px">
+                  <span aria-hidden="true">x</span>
+                </button>
+                <div class="modal-header" style="display: flex;align-items: center; justify-content: space-between">
+                  <h4 class="modal-title"> TABELA DE MEDIDAS </h4>
+                  <button type="button" class="close" data-dismiss="modal">
+                    <span aria-hidden="true">x</span>
+                  </button>
+                </div>
+                  <div class="modal-body">
+                    <table class="gt_table">                   
+                          
+                        <tbody class="table-shirt">
+                          <div class="shirt">
+                            <h5 class="table-measures">Camisa Manga Curta</h5>
+                            <tr class="age">
+                                <td>Idade</td>
+                                <td>1 ano</td>
+                                <td>2 anos</td>
+                                <td>3 anos</td>
+                            </tr>
+                              <tr>
+                                <td class="shirt-length">Comprimento</td>
+                                <td>38 cm.</td>
+                                <td>41 cm.</td>
+                                <td>43 cm.</td>
+                              </tr>
+                            <tr>
+                                <td class="shirt-width">Largura</td>
+                                <td>30 cm.</td>
+                                <td>31 cm.</td>
+                                <td>33 cm.</td>
+                             </tr>
+                                <section><strong>Observação: Medidas relativas a frente da roupa</strong></section>
+                              
+                          </div>
+                      
+                      </table>
+
+                        <div></div>
+
+                        <table>
+                         
+                          <div>
+                        
+                          <div class="short">
+                            <h5 class="table-measures">Bermuda Social Infantil</h5>
+                            <tr class="age-short">
+                                <td>Idade</td>
+                                <td>1 ano</td>
+                                <td>2 anos</td>
+                                <td>3 anos</td>
+                            </tr>
+                            <tr>
+                                <td class="short-length">Comprimento</td>
+                                <td>28 cm.</td>
+                                <td>29 cm.</td>
+                                <td>31 cm.</td>
+                            </tr>
+                            <tr>
+                                <td class="short-waist">Cintura</td>
+                                <td>26 cm.</td>
+                                <td>27 cm.</td>
+                                <td>29cm.</td>
+                              </tr>
+                            <tr>
+                                <td class="short-hip">Quadril</td>
+                                <td>29 cm.</td>
+                                <td>30 cm.</td>
+                                <td>31 cm.</td>
+                            </tr>
+                              <section><strong>Para melhor comparação utilize como modelo uma roupinha do seu filho</strong></section>
+                        </div>
+                       
+                      </tbody>
+                     
+                    </table>
+                    <p><strong>Fique atenta: </strong>tecidos de algodão tendem a <b>encolher até 3%</b> após a lavagem !</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+    </body>
+</html>>
+
             <br>
             <% if (_.state.sales) { %>
                 <span id="vendas"><strong><%=_.state.sales %></strong> unidade(s) vendida(s)</span>
-            <% } %>
+            <% } %>            
 
           <% if (_.state.short_description) { %>
             <h2 class="product__info mt-3 lead">
