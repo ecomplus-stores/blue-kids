@@ -4,7 +4,7 @@
   "primary_color": "#044dc3",
   "theme": {
     "bootswatch": "litera",
-    "custom": "niche-baby"
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "logo": "https://bluekids.netlify.com/img/uploads/logo.png",
