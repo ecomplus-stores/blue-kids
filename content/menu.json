@@ -1,7 +1,6 @@
 {
   "sort_categories": [
     "camisa-social",
-    "body",
     "conjunto-camisa-polo",
     "conjuntos",
     "conjunto-com-calca",
@@ -10,5 +9,6 @@
     "bermuda-social"
   ],
   "phone_wpp": true,
-  "socials": true
+  "socials": true,
+  "alphabetical_order": true
 }
