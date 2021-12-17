@@ -64,6 +64,11 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6054bec34b948446086662d8:collections:Coleção Roupa Batizado:/colecao-roupa-batizado-masculino"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/06-compressed.jpg",
+      "mobile_img": "/img/uploads/minibanner2-topo-bluekids.webp"
     }
   ]
 }
