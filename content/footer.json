@@ -20,13 +20,7 @@
     "email": true,
     "address": false
   },
-  "stamps": [
-    {
-      "link": "https://safeweb.norton.com/report/show?url=www.bluekids.com.br",
-      "src": "/img/uploads/nortonsafeweb.png",
-      "alt": "Selo Segurança Blue Kids"
-    }
-  ],
+  "stamps": [],
   "payment_methods": {
     "bb": false,
     "visa": true,
