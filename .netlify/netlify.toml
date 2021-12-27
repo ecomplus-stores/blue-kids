@@ -203,6 +203,12 @@
   from = "/162-conjunto-com-calca"
   to = "/conjunto-com-calca"
   status = 301
+  
+  [[redirects]]
+  from = "/conjunto-roupa-infantil-festa-de-natal"
+  to = "/conjunto-roupa-social-infantil-camisa-branca"
+  status = 301
+  
 
 [build]
   publish = "publish"
