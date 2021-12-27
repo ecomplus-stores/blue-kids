@@ -56,15 +56,14 @@
                         height="<%= height %>"
                       <% } %>
                     >
-                  </picture>
-                  
+                  </picture>                  
                 </div>
               </div>
             <% } %>
           <% } %>
+         
           <!-- Custom additional code on bottom of images gallery -->
-        </div>
-
+        </div>       
         <div class="col">
           <h1 class="product__name">
             <%= _.ecomUtils.name(_.state) %>
@@ -114,96 +113,137 @@
               </div>
             </div>        
           </div>
-<html>
-  <body>   
-              <a href="javascript:;" data-toggle="modal" data-target="#modal-size-guide" style="font-size:1rem; color: blue;"> TABELA DE MEDIDAS:</a>
-               
-        <div class="modal modal-center fade" id="modal-size-guide" tabindex="-1" style="display: none;" aria-hidden="true">
-          <div class="modal-dialog">
-            <div class="modal-content">
-                  <button id="close-mobile" type="button" class="close" data-dismiss="modal" style="display: none; padding: 7px">
-                  <span aria-hidden="true">Fechar</span>
-                  </button>
-                    <div class="modal-header" style="display: flex;align-items: center; justify-content: space-between">
-                        <h4 class="modal-title"> TABELA DE MEDIDAS </h4>
-                        <button type="button" class="close" data-dismiss="modal">
-                          <span aria-hidden="true">x</span>
-                        </button>
-                    </div>
-                <div class="modal-body">
-                    <table class="gt_table">         
-                        <tbody class="table-shirt">
-                              <div class="shirt">
-                                  <h5 class="table-measures">Camisa Manga Curta</h5>
-                                      <tr class="age">
-                                          <td>Idade</td>
-                                          <td>1 ano</td>
-                                          <td>2 anos</td>
-                                          <td>3 anos</td>
-                                      </tr>
-                                        <tr>
-                                          <td class="shirt-length">Comprimento</td>
-                                          <td>38 cm.</td>
-                                          <td>41 cm.</td>
-                                          <td>43 cm.</td>
-                                        </tr>
-                                      <tr>
-                                          <td class="shirt-width">Largura</td>
-                                          <td>30 cm.</td>
-                                          <td>31 cm.</td>
-                                          <td>33 cm.</td>
-                                      </tr>
-                                          <section><strong>Observação: Medidas relativas a frente da roupa</strong></section>
-                                  
-                                    </div>
-                          </tbody>
-                          
-                        </table>
-                        <table>
-                            <tbody>
-                                                  
-                                <div class="short">
-                                      <h5 class="table-measures">Bermuda Social Infantil</h5>
-                                      <tr class="age-short">
-                                          <td>Idade</td>
-                                          <td>1 ano</td>
-                                          <td>2 anos</td>
-                                          <td>3 anos</td>
-                                      </tr>
-                                      <tr>
-                                          <td class="short-length">Comprimento</td>
-                                          <td>28 cm.</td>
-                                          <td>29 cm.</td>
-                                          <td>31 cm.</td>
-                                      </tr>
-                                      <tr>
-                                          <td class="short-waist">Cintura</td>
-                                          <td>26 cm.</td>
-                                          <td>27 cm.</td>
-                                          <td>29cm.</td>
-                                      </tr>
-                                      <tr>
-                                          <td class="short-hip">Quadril</td>
-                                          <td>29 cm.</td>
-                                          <td>30 cm.</td>
-                                          <td>31 cm.</td>
-                                      </tr>
-                                        <section><strong>Para melhor comparação utilize como modelo uma roupinha do seu filho</strong></section>
-                                </div>
-                          
-                            </tbody>
-                        
-                        </table>
-                            <p><strong>Fique atenta: </strong>tecidos de algodão tendem a <b>encolher até 3%</b> após a lavagem !</p>
-                            <a href="https://www.bluekids.com.br/posts/como-medir-a-roupa-para-seu-filho-2020-01-23">VEJA AQUI: Como medir !</a>
-                    </div>
-                  </div>
-                </div>
+          <html>
+            <body>
+              <div>
+              
               </div>
-    </body>
-</html>>
+              <section class="modalmain">                                           
+                  <img src="\assets\fitametrica-icon.png" width="25" height="25" alt="tabela de medidas roupa infantil"/>
+                  <div class="tablesiz">  
+                    <a class="modal-button" href="javascript:;" data-toggle="modal" data-target="#modal-size-guide"
+                      style="font-size:1rem; color: blue;">&nbsp<u>Tabela de medidas</u>&nbsp|</a>
+                    <div class="modal modal-center fade" id="modal-size-guide" tabindex="-1" style="display: none;" aria-hidden="true">
+                        <div class="modal-dialog">
+                          <div class="modal-content">
+                                <button id="close-mobile" type="button" class="close" data-dismiss="modal" style="display: none; padding: 7px">
+                                  <span aria-hidden="true">Fechar</span>
+                                </button>
+                                  <div class="modal-header" style="display: flex;align-items: center; justify-content: space-between">
+                                      <h4 class="modal-title"> &nbspTABELA DE MEDIDAS </h4>
+                                      <button type="button" class="close" data-dismiss="modal">
+                                        <span aria-hidden="true">x</span>
+                                      </button>
+                                  </div>
+                                  <div class="modal-body">
+                                      <table class="gt_table">         
+                                          <tbody class="table-shirt">
+                                                <div class="shirt">
+                                                    <h5 class="table-measures">Camisa Manga Curta</h5>
+                                                        <tr class="age">
+                                                            <td>Idade</td>
+                                                            <td>1 ano</td>
+                                                            <td>2 anos</td>
+                                                            <td>3 anos</td>
+                                                        </tr>
+                                                          <tr>
+                                                            <td class="shirt-length">Comprimento</td>
+                                                            <td>38 cm.</td>
+                                                            <td>41 cm.</td>
+                                                            <td>43 cm.</td>
+                                                          </tr>
+                                                        <tr>
+                                                            <td class="shirt-width">Largura</td>
+                                                            <td>30 cm.</td>
+                                                            <td>31 cm.</td>
+                                                            <td>33 cm.</td>
+                                                        </tr>
+                                                            <section><strong>Observação: Medidas relativas a frente da roupa</strong></section>                                      
+                                                  </div>
+                                            </tbody>
+                                            
+                                          </table>
+                                          <table>
+                                              <tbody>
+                                                                    
+                                                  <div class="short">
+                                                        <h5 class="table-measures">Bermuda Social Infantil</h5>
+                                                        <tr class="age-short">
+                                                            <td>Idade</td>
+                                                            <td>1 ano</td>
+                                                            <td>2 anos</td>
+                                                            <td>3 anos</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="short-length">Comprimento</td>
+                                                            <td>28 cm.</td>
+                                                            <td>29 cm.</td>
+                                                            <td>31 cm.</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="short-waist">Cintura</td>
+                                                            <td>26 cm.</td>
+                                                            <td>27 cm.</td>
+                                                            <td>29cm.</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="short-hip">Quadril</td>
+                                                            <td>29 cm.</td>
+                                                            <td>30 cm.</td>
+                                                            <td>31 cm.</td>
+                                                        </tr>
+                                                          <section><strong>Para melhor comparação utilize como modelo uma roupinha do seu filho</strong></section>
+                                                  </div>
+                                            
+                                              </tbody>
+                                          
+                                          </table>
+                                              <p><strong>Fique atenta: </strong>tecidos de algodão tendem a <b>encolher até 3%</b> após a lavagem !</p>
+                                              <a href="https://www.bluekids.com.br/posts/como-medir-a-roupa-para-seu-filho-2020-01-23">VEJA AQUI: Como medir !</a>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              <div>                               
+                            </div>
+                            <img src="\assets\incontroca.png" width="20" height="20" alt="politica de troca"/>         
+                            <div class="garate">
+                              
+                                <a class="garate-button" href="javascript:;" data-toggle="modal" data-target="#garate-size-guide"
+                                  style="font-size:1rem; color: blue;">&nbsp<u>Política de Troca</u>&nbsp</a>
+                                <div class="modal garate-center fade" id="garate-size-guide" tabindex="-1" aria-hidden="true">
+                                  <div class="modal-dialog">
+                                      <div class="modal-content">
+                                          <button id="close-mobile" type="button" class="close" data-dismiss="garate" style="display: none; padding: 7px">
+                                            <span aria-hidden="true">Fechar</span>
+                                          </button>
+                                     <div class="modal-header" style="display: flex;align-items: center; justify-content: space-between">
+                                              <h4 class="modal-title"> COMPRA GARANTIDA </h4>
+                                              <button type="button" class="close" data-dismiss="modal">
+                                                <span aria-hidden="true">x</span>
+                                                </button>
+                                    </div>
+                                   
+                                      <section class="term-garant">
+                                        <p><strong>Comprei para a roupa o aniversario do meu filho mas n&atilde;o serviu, tem troca?</strong></p>
+                                        <p>A solicita&ccedil;&atilde;o de troca da roupinha do seu filho deve ser feita em at&eacute; 7 (sete) dias ap&oacute;s o recebimento da encomenda (de acordo com o c&oacute;digo de rastreamento fornecido pelos Correios). A primeira troca o frete &eacute; por nossa conta!</p>
+                                        <p><strong>Comprei a roupinha mas me arrependi, posso devolver?</strong></p>
+                                        <p>Sim! solicitar a devolu&ccedil;&atilde;o da roupa infantil em at&eacute; 7 (sete) dias ap&oacute;s o recebimento. Assim que a roupa retornar. Estando tudo ok, devolveremos o dinheiro referente a compra. <span style="text-decoration: underline;"><strong>O frete &eacute; por nossa conta!</strong></span></p>
+                                        <p>Q<strong>ual &eacute; o procedimento para realizar minha troca/devolu&ccedil;&atilde;o?</strong></p>
+                                        <p>Entre em contato via email (vendas@bluekids.com.br), identifique o n&uacute;mero do pedido, seu CPF, que forneceremos uma etiqueta para a devol&ccedil;&atilde;o</p>
+                                        <p>&nbsp; Para mais informações sobre as condições gerais consulte a&nbsp;<a
+                                          href="https://www.bluekids.com.br/pages/trocas"
+                                          target="_blank">versão completa</a> </p>
+                                        </section>                                
+                               </div>                                
+                            </div>
+                        </div>
+                      </div>                  
+                  </section>>
+                </body>                        
+            </html>
 
-            <br>
             <% if (_.state.sales) { %>
                 <span id="vendas"><strong><%=_.state.sales %></strong> unidade(s) vendida(s)</span>
             <% } %>            
