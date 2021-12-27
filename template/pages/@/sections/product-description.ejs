@@ -6,18 +6,19 @@
         </p> -->
 
       <div id="description">
-        <%- _.state.body_html.replace(
-          /<img ([^/>]+)?src=['"]([^'"]+)['"]([^/>]+)?\/?>/g,
-          '<img class="lozad" data-src="$2" $1>'
+        <%- _.state.body_html.replace( /<img ([^ />]+)?src=['"]([^'"]+)['"]([^/>]+)?\/?>/g,
+        '<img class="lozad" data-src="$2" $1>'
         ).replace(
-          /<img class="lozad" data-src="([^'"]+)"([^>]+)class=['"]([^'"]+)['"]([^/>]+)?>/g,
-          '<img class="lozad $3" data-src="$1" $2 $4>'
+        /<img class="lozad" data-src="([^'" ]+)"([^>]+)class=['"]([^'"]+)['"]([^/>]+)?>/g,
+        '<img class="lozad $3" data-src="$1" $2 $4>'
         ) %>
       </div>
     </div>
-  </section>
-<% } %>
+    <section class="bluekids">
+      <div class="embed-responsive embed-responsive-4by3">
+        <iframe class="embed-responsive-item" height="215" src="https://www.youtube.com/embed/5ozOI6KBlDc" title="Camisaria bluekids" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" alt="video camisaria bluekids roupa social infantil"></iframe>
+      </div>
+    </section>
+    <% } %>
 
-<%- await include('@/helpers/widgets-append', {
-  _, opt: {}, field: 'productDescriptionAppend'
-}) %>
+      <%- await include('@/helpers/widgets-append', { _, opt: {}, field: 'productDescriptionAppend' }) %>
